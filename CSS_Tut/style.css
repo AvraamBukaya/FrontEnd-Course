@@ -1,0 +1,51 @@
+div.body-container{
+    background-color: antiquewhite;
+    border: 2px solid wheat;
+    height:900px;
+}
+header{
+    margin-right: 200px;
+}
+header h2{
+    color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 2em;
+    box-sizing: border-box;
+    
+    
+    
+}
+section{
+    margin: 10px 10px;
+}
+section.navigation{
+    box-sizing: border-box;
+    padding-left: 670px;
+    padding-top: 40px;
+    
+}
+
+section button{
+    
+    color:white;
+    background-color: #342743;
+    box-sizing: border-box;
+    border-radius: 2px solid ;
+    margin:20px 40px;
+    box-shadow: 2px 2px 2px 2px black;
+    font-weight: bold;;
+    
+}
+
+section button:nth-child(2){
+    
+    width: 70px;
+}
+section.main-image{
+  margin: 50px 600px;
+}
+section.main-image img{
+    box-sizing: border-box;
+    width: 500px;
+}
